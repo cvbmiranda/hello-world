@@ -1,2 +1,3 @@
 # hello-world
-Um treinamento de git
+Alterando readme 
+
